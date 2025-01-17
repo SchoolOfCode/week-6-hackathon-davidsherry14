@@ -7,6 +7,8 @@
 // If there is a tie (two or more players with the highest vote count), the first player (in order of appearance) among the tied players is banished.
 // The function should return the name of the banished player, if there are no players with any votes then the function should return null.
 
+// REMEMBER: Install vitest by typing: npm install vitest (into your console)
+
 export function whoIsBanished(votes) {
     //Your answer here
 }
